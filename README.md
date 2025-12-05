@@ -88,16 +88,3 @@ acme.sh一键申请证书脚本：https://github.com/Misaka-blog/acme1key
 
 青龙教程合集：https://www.notion.so/1c598629675145988b43a37998a1604a
 
-## 打赏
-
-USDT(TRC20):
-`TQ7zVyrxPCwFj7qkkKVsXjt5QNjomKGq8u`
-
-ETH:
-`0x17a6E2777B1E90240616FC6f14C916B3028Fb259`
-
-BTC:
-`3BVRnt1s7K5RJ8xbopP7jRBYuL8JC7qCWr`
-
-LTC:
-`LQTu2hWc2JRvcXX47U1VVCN5jsVku3hCAb`
